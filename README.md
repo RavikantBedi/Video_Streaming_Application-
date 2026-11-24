@@ -157,16 +157,6 @@ Edit the constants at the top of each script:
 
 ---
 
-## 👥 Team GeekPro
-
-| Member | Role |
-|--------|------|
-| Ravikant Bedi | Backend & Network Developer |
-| Dev Saxena | Client-Side Engineer |
-| Sushant Kanijiya | Testing & Documentation |
-
----
-
 ## 📜 License
 
 MIT License © 2025 GeekPro
